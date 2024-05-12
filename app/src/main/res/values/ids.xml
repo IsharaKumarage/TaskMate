@@ -3,4 +3,6 @@
     <item name="titleEditText" type="id" />
     <item name="contentEditText" type="id" />
     <item name="main" type="id" />
+    <item name="updateTitleEditText" type="id" />
+    <item name="updateContentEditText" type="id" />
 </resources>

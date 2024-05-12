@@ -13,18 +13,30 @@
         android:theme="@style/Theme.TaskMate"
         tools:targetApi="31">
         <activity
+            android:name=".DeleteNoteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UpdateNoteActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".AddNoteActivity"
             android:exported="true">
+
             <!-- Add any intent filters here if needed -->
         </activity>
+
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
