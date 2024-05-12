@@ -18,7 +18,9 @@ TaskMate is a task management app designed to help you stay organized and produc
 
 ## Screenshots 📱
 
-It will be add soon..!
+![ScreentShot 1](https://github.com/IsharaKumarage/TaskMate/assets/121053544/a82708c3-519d-4e7c-9878-3707211265b2)
+![ScreentShot 2](https://github.com/IsharaKumarage/TaskMate/assets/121053544/c05cffad-feb3-4d32-8e00-4a152d1c6536)
+
 
 ## Technologies Used 💻
 
