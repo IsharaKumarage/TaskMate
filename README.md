@@ -2,6 +2,9 @@
 
 Welcome to TaskMate – your friendly task management companion! 🚀
 
+![TaskMate (1)](https://github.com/IsharaKumarage/TaskMate/assets/121053544/78db051b-8dd8-4a3f-855c-9c538f8c8871)
+
+
 ## Description ℹ️
 
 TaskMate is a task management app designed to help you stay organized and productive. With TaskMate, you can easily create, prioritize, and track your tasks, ensuring that nothing falls through the cracks. ✅
