@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.taskmate.app-debug-4:/drawable_taskmate_01.png.flat",
+        "source": "com.example.taskmate.app-main-6:/drawable/taskmate_01.png"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/font_poppins_medium.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/font/poppins_medium.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/layout_activity_add_note.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/layout/activity_add_note.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/font_poppins_regular.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/font/poppins_regular.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/font_poppins_semibold.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/font/poppins_semibold.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/xml_backup_rules.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/drawable_taskmate_.png.flat",
+        "source": "com.example.taskmate.app-main-6:/drawable/taskmate_.png"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/drawable_baseline_done_24.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/drawable/baseline_done_24.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/drawable_orange_border.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/drawable/orange_border.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/drawable_baseline_add_24.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.taskmate.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.taskmate.app-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.taskmate.app-main-6:/drawable/ic_launcher_foreground.xml"
+    }
+]
