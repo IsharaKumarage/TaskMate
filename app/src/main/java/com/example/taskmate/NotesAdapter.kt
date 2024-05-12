@@ -1,4 +1,5 @@
 import android.annotation.SuppressLint
+import android.app.AlertDialog
 import android.content.Context
 import android.content.Intent
 import android.view.LayoutInflater
@@ -42,10 +43,22 @@ class NotesAdapter(private var notes: List<Note>, private val context: Context) 
         }
 
         holder.deleteButton.setOnClickListener {
-            db.deleteNote(currentNote.id)
-            refreshData(db.getAllNotes())
-            Toast.makeText(holder.itemView.context, "Note Deleted", Toast.LENGTH_SHORT).show()
+            val alertDialogBuilder = AlertDialog.Builder(holder.itemView.context)
+            alertDialogBuilder.apply {
+                setTitle("Confirm Deletion")
+                setMessage("Are you sure you want to delete this note?")
+                setPositiveButton("Yes") { dialog, which ->
+                    db.deleteNote(currentNote.id)
+                    refreshData(db.getAllNotes())
+                    Toast.makeText(holder.itemView.context, "Note Deleted", Toast.LENGTH_SHORT).show()
+                }
+                setNegativeButton("No") { dialog, which ->
+                    // Do nothing or handle cancellation
+                }
+                show()
+            }
         }
+
     }
 
     override fun getItemCount(): Int {
