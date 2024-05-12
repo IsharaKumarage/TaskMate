@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskMate</string>
+    <string name="add_note">Add Note.</string>
+    <string name="addnote">Add Note</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="enter_the_description" />
+    <string name="enter_the_description_">Enter the description</string>
+</resources>
