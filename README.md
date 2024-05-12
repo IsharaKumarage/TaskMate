@@ -10,13 +10,11 @@ Welcome to TaskMate : Your friendly task management companion! 🚀
 TaskMate is a task management app designed to help you stay organized and productive. With TaskMate, you can easily create, prioritize, and track your tasks, ensuring that nothing falls through the cracks. ✅
 
 ## Features 🛠️
+- Create tasks with titles, descriptions.
+-	Organize tasks into categories or projects.
+-	Edit existing tasks to update titles, descriptions, or any other details.
+-	Delete tasks when they are no longer needed.
 
-- Create tasks with titles, descriptions, due dates, and priority levels.
-- Organize tasks into categories or projects.
-- Mark tasks as complete when finished.
-- Set reminders for upcoming deadlines.
-- Customize task lists to suit your workflow.
-- Sync tasks across devices for seamless access.
 
 ## Screenshots 📱
 
