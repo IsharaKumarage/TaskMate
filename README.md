@@ -1,4 +1,4 @@
-TaskMate🚀
+## TaskMate 🚀
 
 Welcome to TaskMate | Your friendly task management companion!
 
